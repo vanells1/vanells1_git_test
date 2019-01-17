@@ -4,3 +4,6 @@ Physics
 3rd Year
 Brighton, MI
 CMSE 201 is the only programming experience I have
+
+Jessica VanElls
+vanells1@msu.edu
